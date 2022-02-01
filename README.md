@@ -22,4 +22,4 @@
 </p>
 </details>
 
-![[Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23204829&duration=7000&lines=Wake+up%2C+Neo...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23204829&duration=7000&lines=Wake+up%2C+Neo...)](https://git.io/typing-svg)
