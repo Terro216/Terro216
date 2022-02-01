@@ -9,13 +9,15 @@
 - 🥅 2022 Goals: Find a job
 - 💬 Ask me about my favourite movies 
 
-<details><summary>## Stats:<summary>
+<details><summary>Stats:<summary>
+<p>
 <!--START_SECTION:waka-->
   
 <!--END_SECTION:waka-->
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Terro216&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/Terro216) 
+![Profile views](https://gpvc.arturio.dev/Terro216)
+<p>
 </details>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23204829&duration=7000&lines=Wake+up%2C+Neo...)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23204829&duration=7000&lines=Wake+up%2C+Neo...)](https://git.io/typing-svg)
