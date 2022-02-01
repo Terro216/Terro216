@@ -1,5 +1,5 @@
-### Hi there 👋, my name is ilya
-#### I am a student and web developer
+## Hi there 👋, my name is ilya
+### I am a student and web developer
 ![I am a student and web developer](https://i.pinimg.com/originals/b9/ba/44/b9ba446cca2bb06ff1a8d49fd46581ed.jpg)
 
 >I am glad you are here. You can visit [my portfolio](https://ilyamed.site/) or write me something on me@ilyamed.site 
@@ -9,7 +9,7 @@
 - 🥅 2022 Goals: Find a job
 - 💬 Ask me about my favourite movies 
 
-#### Stats:
+### Stats:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Terro216&show_icons=true)  
 
