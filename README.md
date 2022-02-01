@@ -18,6 +18,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Terro216&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/Terro216)
-<p>
+</p>
 </details>
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23204829&duration=7000&lines=Wake+up%2C+Neo...)](https://git.io/typing-svg)
