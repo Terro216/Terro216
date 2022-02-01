@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, my name is ilya
+#### I am a student and web developer
+![I am a student and web developer](https://i.pinimg.com/originals/b9/ba/44/b9ba446cca2bb06ff1a8d49fd46581ed.jpg)
 
-<!--
-**Terro216/Terro216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>I am glad you are here. You can visit [my portfolio](https://ilyamed.site/) or write me something on me@ilyamed.site 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on some pet projects
+- 🤔 I’m looking for help with design in some projects...
+- 🥅 2022 Goals: Find a job
+- 💬 Ask me about my favourite movies 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Stats:
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Terro216&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/Terro216) 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23204829&duration=7000&lines=Wake+up%2C+Neo...)](https://git.io/typing-svg)
