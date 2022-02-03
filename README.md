@@ -5,13 +5,13 @@
 >I am glad you are here. You can visit [my portfolio](https://ilyamed.site/) or write me something on me@ilyamed.site 
 
 - 🔭 I’m currently working on some pet projects
-- 🤔 I’m looking for help with design in some projects...
+- 🤔 I’m looking for help with design...
 - 🥅 2022 Goals: Find a job
 - 💬 Ask me about my favourite movies 
 
 <details>
   <summary>:zap: Stats:</summary>
-<p>
+<p><!-- https://github.com/anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
   
 <!--END_SECTION:waka-->
