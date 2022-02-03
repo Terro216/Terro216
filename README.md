@@ -96,8 +96,6 @@ C++                      1 repo              ██░░░░░░░░░�
 <!--END_SECTION:waka-->
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Terro216&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/Terro216)
 </p>
 </details>
 
