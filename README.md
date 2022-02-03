@@ -13,15 +13,15 @@
   <summary>:zap: Stats:</summary>
 <p><!-- https://github.com/anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-87%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-89%20hrs%2012%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 17 Contributions in the Year 2022
+> 🏆 19 Contributions in the Year 2022
  > 
-> 📦 44.7 kB Used in GitHub's Storage 
+> 📦 45.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -32,22 +32,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    32 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.5% 
-🌆 Daytime    41 commits     ██████░░░░░░░░░░░░░░░░░░░   23.7% 
-🌃 Evening    74 commits     ██████████░░░░░░░░░░░░░░░   42.77% 
-🌙 Night      26 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.03%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.83% 
-Tuesday      24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.87% 
-Wednesday    36 commits     █████░░░░░░░░░░░░░░░░░░░░   20.81% 
-Thursday     27 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.61% 
-Friday       8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.62% 
-Saturday     36 commits     █████░░░░░░░░░░░░░░░░░░░░   20.81% 
-Sunday       25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.45%
+🌞 Morning    32 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.29% 
+🌆 Daytime    41 commits     █████░░░░░░░░░░░░░░░░░░░░   23.43% 
+🌃 Evening    76 commits     ██████████░░░░░░░░░░░░░░░   43.43% 
+🌙 Night      26 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.86%
 
 ```
 
@@ -87,12 +75,8 @@ C++                      1 repo              ██░░░░░░░░░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/Terro216/Terro216/main/charts/bar_graph.png) 
-
-
- Last Updated on 03/02/2022 14:51:23 UTC
+ Last Updated on 03/02/2022 18:43:58 UTC
 <!--END_SECTION:waka-->
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Terro216&show_icons=true)  
