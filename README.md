@@ -13,13 +13,11 @@
   <summary>:zap: Stats:</summary>
 <p><!-- https://github.com/anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-89%20hrs%2012%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 19 Contributions in the Year 2022
+> 🏆 21 Contributions in the Year 2022
  > 
 > 📦 45.1 kB Used in GitHub's Storage 
  > 
@@ -32,10 +30,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    32 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.29% 
-🌆 Daytime    41 commits     █████░░░░░░░░░░░░░░░░░░░░   23.43% 
-🌃 Evening    76 commits     ██████████░░░░░░░░░░░░░░░   43.43% 
-🌙 Night      26 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.86%
+🌞 Morning    32 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.08% 
+🌆 Daytime    41 commits     █████░░░░░░░░░░░░░░░░░░░░   23.16% 
+🌃 Evening    77 commits     ███████████░░░░░░░░░░░░░░   43.5% 
+🌙 Night      27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.25%
 
 ```
 
@@ -76,7 +74,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 03/02/2022 18:43:58 UTC
+ Last Updated on 05/02/2022 18:37:04 UTC
 <!--END_SECTION:waka-->
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Terro216&show_icons=true)  
