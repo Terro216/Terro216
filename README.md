@@ -12,9 +12,9 @@
 <details>
   <summary>:zap: Stats:</summary>
 <p><!-- https://github.com/anmol098/waka-readme-stats -->
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-48-blue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Terro216&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
 > 🏆 28 Contributions in the Year 2022
@@ -76,7 +76,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
  Last Updated on 07/02/2022 18:42:46 UTC
 <!--END_SECTION:waka-->
-  
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Terro216&show_icons=true)  
 </p>
 </details>
