@@ -14,7 +14,7 @@
 <p><!-- https://github.com/anmol098/waka-readme-stats -->
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-130%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-131%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
 
@@ -66,7 +66,7 @@ cinema-react             0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 28/02/2022 18:27:27 UTC
+ Last Updated on 28/02/2022 18:44:36 UTC
 <!--END_SECTION:waka-->
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Terro216&show_icons=true&theme=darcula)  
