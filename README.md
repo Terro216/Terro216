@@ -14,13 +14,11 @@
 <p><!-- https://github.com/anmol098/waka-readme-stats -->
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-131%20hrs%2011%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-52-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 80 Contributions in the Year 2022
+> 🏆 82 Contributions in the Year 2022
  > 
 > 📦 52.9 kB Used in GitHub's Storage 
  > 
@@ -33,10 +31,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.41% 
-🌆 Daytime    52 commits     █████░░░░░░░░░░░░░░░░░░░░   22.71% 
-🌃 Evening    99 commits     ██████████░░░░░░░░░░░░░░░   43.23% 
-🌙 Night      45 commits     █████░░░░░░░░░░░░░░░░░░░░   19.65%
+🌞 Morning    33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+🌆 Daytime    52 commits     █████░░░░░░░░░░░░░░░░░░░░   22.51% 
+🌃 Evening    101 commits    ███████████░░░░░░░░░░░░░░   43.72% 
+🌙 Night      45 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.48%
 
 ```
 
@@ -66,7 +64,7 @@ cinema-react             0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 28/02/2022 18:44:36 UTC
+ Last Updated on 01/03/2022 18:44:36 UTC
 <!--END_SECTION:waka-->
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Terro216&show_icons=true&theme=darcula)  
