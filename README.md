@@ -14,50 +14,9 @@
   <summary>:zap: Stats:</summary>
 <p><!-- https://github.com/anmol098/waka-readme-stats -->
   
+![Profile Views](https://komarev.com/ghpvc/?username=Terro216&color=blueviolet)
+
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 235 Contributions in the Year 2022
- > 
-> 📦 64.0 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 13 Public Repositories 
- > 
-> 🔑 2 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.38% 
-🌆 Daytime    61 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.18% 
-🌃 Evening    124 commits    █████████░░░░░░░░░░░░░░░░   38.99% 
-🌙 Night      100 commits    ███████░░░░░░░░░░░░░░░░░░   31.45%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Moscow
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-```
-
-
- Last Updated on 04/04/2022 18:47:08 UTC
 <!--END_SECTION:waka-->
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Terro216&show_icons=true&theme=darcula)  
