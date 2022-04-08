@@ -17,6 +17,49 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Terro216&color=blueviolet)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-208%20hrs%2013%20mins-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 238 Contributions in the Year 2022
+ > 
+> 📦 64.0 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 13 Public Repositories 
+ > 
+> 🔑 2 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    36 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.21% 
+🌆 Daytime    61 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.0% 
+🌃 Evening    124 commits    █████████░░░░░░░░░░░░░░░░   38.63% 
+🌙 Night      100 commits    ███████░░░░░░░░░░░░░░░░░░   31.15%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Moscow
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+```
+
+
+ Last Updated on 08/04/2022 08:23:30 UTC
 <!--END_SECTION:waka-->
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Terro216&show_icons=true&theme=darcula)  
