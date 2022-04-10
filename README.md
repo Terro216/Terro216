@@ -17,8 +17,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Terro216&color=blueviolet)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-208%20hrs%2013%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 🏆 238 Contributions in the Year 2022
@@ -59,7 +57,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 08/04/2022 08:23:30 UTC
+ Last Updated on 10/04/2022 18:45:17 UTC
 <!--END_SECTION:waka-->
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Terro216&show_icons=true&theme=darcula)  
