@@ -17,7 +17,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Terro216&color=blueviolet)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-278%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-280%20hrs%2031%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -60,12 +60,13 @@ CLion                    3 hrs 18 mins       █████████░░�
 
 🐱‍💻 Projects: 
 ITLab-Projects-Front     5 hrs 38 mins       ███████████████░░░░░░░░░░   63.06% 
-siaod                    3 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   36.94%
+siaod                    3 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   36.94% 
+LightEditProject         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 
 
- Last Updated on 15/05/2022 18:47:17 UTC
+ Last Updated on 16/05/2022 18:49:54 UTC
 <!--END_SECTION:waka-->
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Terro216&show_icons=true&theme=darcula)  
