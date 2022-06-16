@@ -17,7 +17,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Terro216&color=blueviolet)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-348%20hrs%2013%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -65,7 +65,7 @@ MoscowCityHack-Back      2 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 15/06/2022 18:47:28 UTC
+ Last Updated on 16/06/2022 18:52:31 UTC
 <!--END_SECTION:waka-->
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Terro216&show_icons=true&theme=darcula)  
