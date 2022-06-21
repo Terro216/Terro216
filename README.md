@@ -48,19 +48,18 @@
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-JavaScript               5 hrs 25 mins       ███████████████████████░░   93.13% 
-SCSS                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.87%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 hrs 49 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-MoscowCityHack-Front     5 hrs 49 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 20/06/2022 18:48:53 UTC
+ Last Updated on 21/06/2022 18:47:11 UTC
 <!--END_SECTION:waka-->
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Terro216&show_icons=true&theme=darcula)  
