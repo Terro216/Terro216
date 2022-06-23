@@ -17,7 +17,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Terro216&color=blueviolet)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-354%20hrs%2018%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -48,18 +48,22 @@
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               5 hrs 40 mins       ████████████████████████░   99.02% 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.71% 
+SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13% 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 hrs 43 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ITLab-Projects-Front     5 hrs 43 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 21/06/2022 18:47:11 UTC
+ Last Updated on 23/06/2022 18:50:11 UTC
 <!--END_SECTION:waka-->
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Terro216&show_icons=true&theme=darcula)  
