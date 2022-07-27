@@ -17,11 +17,11 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Terro216&color=blueviolet)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-415%20hrs%2016%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 464 Contributions in the Year 2022
+> 🏆 465 Contributions in the Year 2022
  > 
 > 📦 128.4 kB Used in GitHub's Storage 
  > 
@@ -48,21 +48,21 @@
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-JavaScript               18 hrs 39 mins      ███████████████████████░░   94.81% 
-SCSS                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.74% 
-Other                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.42% 
-Diff                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+JavaScript               15 hrs 50 mins      ███████████████████████░░   94.9% 
+SCSS                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.39% 
+Other                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.67% 
+Diff                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
 🔥 Editors: 
-VS Code                  19 hrs 40 mins      █████████████████████████   100.0%
+VS Code                  16 hrs 41 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-ITLab-Projects-Front     19 hrs 40 mins      █████████████████████████   100.0%
+ITLab-Projects-Front     16 hrs 41 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 26/07/2022 18:48:23 UTC
+ Last Updated on 27/07/2022 18:47:10 UTC
 <!--END_SECTION:waka-->
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Terro216&show_icons=true&theme=darcula)  
