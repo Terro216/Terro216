@@ -17,7 +17,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Terro216&color=blueviolet)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-349%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-444%20hrs%2051%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -61,7 +61,7 @@ ITLab-Projects-Front     3 hrs 52 mins       ███████████�
 ```
 
 
- Last Updated on 17/08/2022 18:50:19 UTC
+ Last Updated on 18/08/2022 18:48:15 UTC
 <!--END_SECTION:waka-->
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Terro216&show_icons=true&theme=darcula)  
