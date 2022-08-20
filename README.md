@@ -19,9 +19,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-449%20hrs%2023%20mins-blue)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-154%20Thousand%20lines%20of%20code-blue)
+
 **🐱 My GitHub Data** 
 
-> 🏆 471 Contributions in the Year 2022
+> 🏆 472 Contributions in the Year 2022
  > 
 > 📦 128.5 kB Used in GitHub's Storage 
  > 
@@ -34,10 +36,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    31 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.33% 
-🌆 Daytime    85 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.35% 
-🌃 Evening    211 commits    ██████████░░░░░░░░░░░░░░░   43.06% 
-🌙 Night      163 commits    ████████░░░░░░░░░░░░░░░░░   33.27%
+🌞 Morning    31 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.31% 
+🌆 Daytime    85 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.31% 
+🌃 Evening    212 commits    ██████████░░░░░░░░░░░░░░░   43.18% 
+🌙 Night      163 commits    ████████░░░░░░░░░░░░░░░░░   33.2%
 
 ```
 
@@ -53,13 +55,10 @@ JavaScript               32 mins             ███████████�
 🔥 Editors: 
 VS Code                  32 mins             █████████████████████████   100.0%
 
-🐱‍💻 Projects: 
-ITLab-Projects-Front     32 mins             █████████████████████████   100.0%
-
 ```
 
 
- Last Updated on 20/08/2022 18:45:53 UTC
+ Last Updated on 20/08/2022 20:24:53 UTC
 <!--END_SECTION:waka-->
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Terro216&show_icons=true&theme=darcula)  
