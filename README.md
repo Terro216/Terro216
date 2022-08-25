@@ -17,7 +17,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Terro216&color=blueviolet)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-454%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-458%20hrs%2029%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-154%20Thousand%20lines%20of%20code-blue)
 
@@ -50,17 +50,18 @@
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-JavaScript               4 hrs 16 mins       ███████████████████████░░   92.44% 
-SCSS                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.55% 
+JavaScript               8 hrs 10 mins       ██████████████████████░░░   91.25% 
+SCSS                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.56% 
+TypeScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.19% 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-VS Code                  4 hrs 37 mins       █████████████████████████   100.0%
+VS Code                  8 hrs 57 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 22/08/2022 18:51:43 UTC
+ Last Updated on 25/08/2022 18:51:11 UTC
 <!--END_SECTION:waka-->
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Terro216&show_icons=true&theme=darcula)  
