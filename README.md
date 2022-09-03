@@ -17,7 +17,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Terro216&color=blueviolet)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-471%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-480%20hrs%2013%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-154%20Thousand%20lines%20of%20code-blue)
 
@@ -50,19 +50,19 @@
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-JavaScript               11 hrs 40 mins      █████████████████████░░░░   84.12% 
-SCSS                     1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.33% 
-JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.01% 
-Markdown                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.88% 
-Other                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.69%
+JavaScript               13 hrs 8 mins       ██████████████████████░░░   89.54% 
+SCSS                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.66% 
+JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.9% 
+Other                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.36% 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.57%
 
 🔥 Editors: 
-VS Code                  13 hrs 52 mins      █████████████████████████   100.0%
+VS Code                  14 hrs 40 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 02/09/2022 18:54:53 UTC
+ Last Updated on 03/09/2022 18:52:39 UTC
 <!--END_SECTION:waka-->
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Terro216&show_icons=true&theme=darcula)  
