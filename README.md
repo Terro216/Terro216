@@ -50,16 +50,15 @@
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-JavaScript               8 hrs 26 mins       ████████████████░░░░░░░░░   64.7% 
-HTML                     4 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   35.3%
+JavaScript               6 hrs 51 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  13 hrs 2 mins       █████████████████████████   100.0%
+VS Code                  6 hrs 51 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 20/09/2022 18:56:26 UTC
+ Last Updated on 22/09/2022 18:54:48 UTC
 <!--END_SECTION:waka-->
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Terro216&show_icons=true&theme=darcula)  
