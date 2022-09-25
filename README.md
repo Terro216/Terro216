@@ -50,15 +50,16 @@
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 46 mins        █████████████████████░░░░   86.25% 
+SCSS                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.75%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 3 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 24/09/2022 18:54:41 UTC
+ Last Updated on 25/09/2022 18:53:41 UTC
 <!--END_SECTION:waka-->
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Terro216&show_icons=true&theme=darcula)  
